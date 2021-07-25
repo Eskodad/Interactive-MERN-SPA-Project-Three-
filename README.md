@@ -47,7 +47,7 @@ SEARCH
 ---
 
 ## Web Links
-GitHub Repo: https://github.com/KaleTEvans/project-three
+GitHub Repo: https://github.com/Eskodad/Interactive-MERN-SPA-Project-Three-
 
 App Dep: http://aqueous-reef-39758.herokuapp.com
 
