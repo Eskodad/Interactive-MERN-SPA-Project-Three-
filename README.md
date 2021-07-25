@@ -54,6 +54,7 @@ App Dep: http://aqueous-reef-39758.herokuapp.com
 ---
 
 ## Collaboration
+Pull requests are wlcome. For any major changes, please let the repository owner know to discuss what would you like to change.
 
 ---
 
