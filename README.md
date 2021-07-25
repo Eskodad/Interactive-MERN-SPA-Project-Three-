@@ -59,4 +59,5 @@ App Dep: http://aqueous-reef-39758.herokuapp.com
 
 
 ## License
+None
 # Interactive-MERN-SPA-Project-Three-
